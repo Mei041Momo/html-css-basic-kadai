@@ -1,0 +1,32 @@
+html{
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    font-family: "Ariel","Meiryo",sans-serif;
+}
+.google-fonts{
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
+    font-size:2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 2px 2px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+.text-skyblue{
+    color:skyblue
+}
+.text-pink{
+    color:rgb(255, 192, 203);
+}
+.pink-heading{
+    color:rgb(255, 192, 203);
+}
+.skyblue-heading{
+    color:skyblue
+}
+#basic .bold-text{
+    font-weight: bold;
+    
+}
